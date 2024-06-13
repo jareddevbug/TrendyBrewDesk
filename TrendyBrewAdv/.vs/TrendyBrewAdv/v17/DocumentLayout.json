@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TrendyBrewAdv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|d:\\trendybrewadv\\adminreg.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|solutionrelative:adminreg.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|D:\\TrendyBrewAdv\\Staffsignin.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|solutionrelative:Staffsignin.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|D:\\TrendyBrewAdv\\admininitialsetup.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|solutionrelative:admininitialsetup.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|D:\\TrendyBrewAdv\\admininitialsetup.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|solutionrelative:admininitialsetup.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|D:\\TrendyBrewAdv\\admininitialsetup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|solutionrelative:admininitialsetup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|D:\\TrendyBrewAdv\\admininitialsetup2.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|solutionrelative:admininitialsetup2.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|D:\\TrendyBrewAdv\\Form1.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2ECBA526-79E4-4F3C-BD24-611F05E133D7}|TrendyBrewAdv.vbproj|solutionrelative:Form1.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "adminreg.Designer.vb",
+              "DocumentMoniker": "D:\\TrendyBrewAdv\\adminreg.Designer.vb",
+              "RelativeDocumentMoniker": "adminreg.Designer.vb",
+              "ToolTip": "D:\\TrendyBrewAdv\\adminreg.Designer.vb",
+              "RelativeToolTip": "adminreg.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-27T11:48:45.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Staffsignin.Designer.vb",
+              "DocumentMoniker": "D:\\TrendyBrewAdv\\Staffsignin.Designer.vb",
+              "RelativeDocumentMoniker": "Staffsignin.Designer.vb",
+              "ToolTip": "D:\\TrendyBrewAdv\\Staffsignin.Designer.vb",
+              "RelativeToolTip": "Staffsignin.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-27T11:48:20.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admininitialsetup.Designer.vb",
+              "DocumentMoniker": "D:\\TrendyBrewAdv\\admininitialsetup.Designer.vb",
+              "RelativeDocumentMoniker": "admininitialsetup.Designer.vb",
+              "ToolTip": "D:\\TrendyBrewAdv\\admininitialsetup.Designer.vb",
+              "RelativeToolTip": "admininitialsetup.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-27T11:48:09.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admininitialsetup.resx",
+              "DocumentMoniker": "D:\\TrendyBrewAdv\\admininitialsetup.resx",
+              "RelativeDocumentMoniker": "admininitialsetup.resx",
+              "ToolTip": "D:\\TrendyBrewAdv\\admininitialsetup.resx",
+              "RelativeToolTip": "admininitialsetup.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-27T11:48:07.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admininitialsetup.vb",
+              "DocumentMoniker": "D:\\TrendyBrewAdv\\admininitialsetup.vb",
+              "RelativeDocumentMoniker": "admininitialsetup.vb",
+              "ToolTip": "D:\\TrendyBrewAdv\\admininitialsetup.vb",
+              "RelativeToolTip": "admininitialsetup.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-27T11:48:04.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "admininitialsetup2.Designer.vb",
+              "DocumentMoniker": "D:\\TrendyBrewAdv\\admininitialsetup2.Designer.vb",
+              "RelativeDocumentMoniker": "admininitialsetup2.Designer.vb",
+              "ToolTip": "D:\\TrendyBrewAdv\\admininitialsetup2.Designer.vb",
+              "RelativeToolTip": "admininitialsetup2.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-27T11:48:02.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\TrendyBrewAdv\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "D:\\TrendyBrewAdv\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-27T11:47:27.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
